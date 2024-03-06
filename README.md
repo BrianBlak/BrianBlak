@@ -1,4 +1,4 @@
- 👋
+<h1>Rychard Anthony</h1>
 ### Hi 👋
 
 <div style="display: inline_block"><br>
